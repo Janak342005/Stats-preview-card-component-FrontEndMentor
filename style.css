@@ -84,7 +84,7 @@ body{
 .image-container .image{
     width: 100%;
     height: 100%;
-    background-image: url("./image-header-desktop.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2020/10/14/03/18/man-5653200_1280.jpg");
     background-size: cover;
     background-position: center;
 }
